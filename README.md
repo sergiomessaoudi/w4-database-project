@@ -1,4 +1,4 @@
-![portada](https://github.com/Ironhack-Data-Madrid-Enero-2022/w3-pandas-project/blob/main/images/portada.jpg)
+![portada](https://github.com/lalala.jpg)
 
 # W4 Project - Building mySQL Data-base 
 
