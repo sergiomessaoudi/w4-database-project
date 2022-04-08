@@ -1,4 +1,4 @@
-![portada](https://github.com/lalala.jpg)
+![portada](https://i0.wp.com/itsoftware.com.co/content/wp-content/uploads/2018/03/que-es-y-para-que-sirve-mysql-1.jpg)
 
 # W4 Project - Building mySQL Data-base 
 
