@@ -10,6 +10,7 @@ The goal of this project is to build your own database from several csv files. F
 1. Explore the data and write down what you have found
    - you can use: `df.describe()`, `df["column"]`, etc.
 1. Clean the data (you can get rid of columns that doesn't give information)
+1. Build your databse
 1. Write at least 10 queries including: join, groupby, orderby, where, subqueries….that you think will be useful to get interesting insights from the data.**(SELECT* FROM TABLE_NAME doesn't count...)** 
 + Bonus: Get creative!!! Create totally new tables or enrich the csv files with new data (found on the internet or even made up) that makes your database more valuable.
 
