@@ -1,4 +1,4 @@
-# W4 Project - Creando una base de datos  MySQL
+# W4 Project   - Creando una base de datos de  MySQL -
 
 ![portada](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/object-storage-t.jpg)
 
@@ -11,7 +11,7 @@ El objetivo de este proyecto es construir mi primera base de datos a partir de v
 
 Los pasos que seguiré estan detallados a continuación:
 1. Inicialmente,exploraré los diversos datos que se encuentran en los Csv.
-- Usaré algunos parámetros básicos como: `df.describe()`, `df['columna']`, etc.
+- Usaré algunos parámetros básicos como: `df.describe()`, `df['columna']`,`df.shape`,`df.info`, etc.
 2. Limpia los datos (puedes deshacerte de las columnas que no dan información)
 3. Construiré mi base de datos
 4. Escriba al menos 10 consultas que incluyan: unirse, agrupar, ordenar por, dónde, subconsultas... que crea que serán útiles para obtener información interesante de los datos. **(SELECCIONAR* DE NOMBRE_TABLA no cuenta...)* *
