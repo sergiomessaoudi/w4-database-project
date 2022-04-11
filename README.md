@@ -9,23 +9,26 @@
 
 El objetivo de este proyecto es construir mi primera base de datos a partir de varios archivos csv. Para este proyecto, utilizaré 6 archivos `csv`relativos a peliculas.
 
-Los pasos que seguiré estan detallados a continuación:
-1. Inicialmente,exploraré los diversos datos que se encuentran en los Csv.
-- Usaré algunos parámetros básicos como: `df.describe()`, `df['columna']`,`df.shape`,`df.info`, etc.
-2. Limpia los datos (puedes deshacerte de las columnas que no dan información)
-3. Construiré mi base de datos
-4. Escriba al menos 10 consultas que incluyan: unirse, agrupar, ordenar por, dónde, subconsultas... que crea que serán útiles para obtener información interesante de los datos. **(SELECCIONAR* DE NOMBRE_TABLA no cuenta...)* *
+Los pasos que he seguido estan detallados a continuación:
+
+1.Inicialmente,exploré los diversos datos que se encontraban en los Csv.
+
+- Use algunos parámetros básicos para el análisis exploratorio inicial como: `df.describe()`, `df['columna']`,`df.shape`,`df.info`, etc.
+
+2.Realizé una limpieza de los datos, en particular borré las columnas que me daban información.
+
+3. Creé mi base de datos.
+
+4.Diseñe su  modelo relacional(EER) de mi base de datos.
+
+5.Escribí 10 consultas  (querys) que fueron útiles para obtener información interesante acerca de los datos.
 
 
 
+## Tecnologías utilizadas
 
-## Links & Resources
 
-
-- <https://numpy.org/doc/1.18/>
-- <https://pandas.pydata.org/>
-- https://docs.python.org/3/library/functions.html
-- https://matplotlib.org/
-- https://seaborn.pydata.org/
-- https://pandas.pydata.org/docs/
-- https://towardsdatascience.com/beware-of-storytelling-with-data-1710fea554b0?gi=537e0c10d89e
+- `Numpy`<https://numpy.org/doc/1.18/>
+- `Pandas`<https://pandas.pydata.org/>
+- `MySQL`https://www.mysql.com/
+- `Python`https://www.python.org/
