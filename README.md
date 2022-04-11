@@ -15,9 +15,9 @@ Los pasos que he seguido estan detallados a continuación:
 
 - Use algunos parámetros básicos para el análisis exploratorio inicial como: `df.describe()`, `df['columna']`,`df.shape`,`df.info`, etc.
 
-2.Realizé una limpieza de los datos, en particular borré las columnas que me daban información.
+2.Realizé una limpieza de los datos, en particular borré las columnas que no me daban información.
 
-3. Creé mi base de datos.
+3.Creé mi base de datos.
 
 4.Diseñe el modelo relacional(EER) de la base de datos que creé.
 
