@@ -19,11 +19,12 @@ Los pasos que he seguido estan detallados a continuación:
 
 3.Creé mi base de datos.
 
-4.Diseñe el modelo relacional `(EER)` de la base de datos.
+4.Diseñe el modelo relacional `(ERD)` de la base de datos.
 
 5.Escribí 10 consultas  (querys) que fueron útiles para obtener información interesante acerca de los datos.
 
-
+## DIAGRAMA DE ENTIDAD RELACION (ERD)
+![SQL EER](/fotodiagrama.png)
 
 ## TECNOLOGÍAS UTILIZADAS
 
